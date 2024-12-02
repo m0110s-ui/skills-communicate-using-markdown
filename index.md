@@ -6,3 +6,9 @@
 ###### 6つ
 
 ![image of octocat](https://octodex.github.com/images/yaktocat.png)
+
+```Java
+int x =100;
+```
+
+
